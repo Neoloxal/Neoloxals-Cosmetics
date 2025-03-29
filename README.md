@@ -2,7 +2,7 @@
 A Minecraft datapack/resouce pack that adds simple cosmetics
 
 ### IMPORTANT INFO!!!!!
-This GitHub Repo on the most rescent version may have _beta_ stuff. I will **tag/release/whatever** when there is a _full release_.
+This GitHub Repo on the most rescent version may have _beta_ stuff. I will **tag/release/whatever** when there is a _full release_. (I dont wanna deal with branches and two README.md's)
 
 ### Installing Data/Resource pack through GitHub:
 1. Download the repo
